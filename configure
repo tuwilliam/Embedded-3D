@@ -1,0 +1,5 @@
+make clean
+rm -rf /mnt/hgfs/share/dataout.yuv
+make
+./camera
+
